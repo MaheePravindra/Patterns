@@ -1,6 +1,6 @@
 import java.util.*;
 
-/*Approach
+/*Approach of solving every pattern question
  * (1) No. of lines = No. of rows = No. of times outer loop will run
  * (2) Identify for each row number
  *     a. how many columns are there
